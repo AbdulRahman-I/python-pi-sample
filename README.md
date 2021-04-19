@@ -1,1 +1,4 @@
- Modification done via Linux CLI
+# python-pi-sample
+Sample Python git repo
+
+Modification done via Linux CLI
